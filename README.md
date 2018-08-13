@@ -1,4 +1,4 @@
-[![DOI](https://doi.org/10.1117/1.JRS.12.016020)]
+
 # UFCN
 This is an official implementation of **UFCN: A fully convolutional neural network for road extraction in RGB imagery acquired by remote sensing from an unmanned aerial vehicle**, research published in JARS, SPIE, [here](https://www.spiedigitallibrary.org/journals/Journal-of-Applied-Remote-Sensing/volume-12/issue-1/016020/UFCN--a-fully-convolutional-neural-network-for-road-extraction/10.1117/1.JRS.12.016020.short?SSO=1).
 
