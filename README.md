@@ -4,7 +4,7 @@ A fully convolutional neural network for road extraction in RGB imagery acquired
 Citation (Underline)
 -------------
 If you use the UFCN work and associated  models, use the following citation:
-#####BIBTEX
+#### BIBTEX
 @article{kestur2018ufcn,
   title={UFCN: a fully convolutional neural network for road extraction in RGB imagery acquired by remote sensing from an unmanned aerial vehicle},
   author={Kestur, Ramesh and Farooq, Shariq and Abdal, Rameen and Mehraj, Emad and Narasipura, Omkar and Mudigere, Meenavathi},
