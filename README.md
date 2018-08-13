@@ -5,7 +5,8 @@ Citation (Underline)
 -------------
 If you use the UFCN work and associated  models, use the following citation:
 #### BIBTEX
-@article{kestur2018ufcn,
+    @article{
+    kestur2018ufcn,
 
     title={UFCN: a fully convolutional neural network for road extraction in RGB imagery acquired by remote sensing from an unmanned aerial vehicle},
 
@@ -22,5 +23,5 @@ If you use the UFCN work and associated  models, use the following citation:
     year={2018},
 
     publisher={International Society for Optics and Photonics}
-  
-}
+
+    }
